@@ -1,5 +1,4 @@
-# Partitions
-## How to resize the root partition?
+# How to resize the root partition?
 `STEP 1` - Delete the existing partition*
 
 ```
